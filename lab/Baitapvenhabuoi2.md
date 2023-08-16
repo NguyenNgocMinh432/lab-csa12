@@ -1,5 +1,8 @@
 Computer Science Advanced
 Lab 2. SPECIAL METHODS VÀ KẾ THỪA
+
+--------------------------------------------
+
 Bài 1. Hình Chữ Nhật
     Python hỗ trợ chuyển đổi các đối tượng thành dạng string khi dùng lệnh print() trên đối tượng.
     Ví dụ, lệnh print(Rectangle(height=2, width=1)) với lớp Rectangle ở bài trước cho ta kết quả:
